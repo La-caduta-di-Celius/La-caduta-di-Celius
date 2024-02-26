@@ -1,4 +1,4 @@
-- [Recap delle sessioni](Recap.md)
-- [Il Party](Party.md)
-- [NPC e Fazioni](NPC)
+- [Recap delle sessioni](docs/Recap.md)
+- [Il Party](docs/Party.md)
+- [NPC e Fazioni](docs/NPC)
 
