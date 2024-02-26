@@ -2,7 +2,7 @@
 
 - [Recap delle sessioni](Recap.md)
 - [Il Party](Party.md)
-- [NPC e Fazioni](NPC)
+- [NPC e Fazioni](NPC.md)
 
 ---
 
