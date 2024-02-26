@@ -18,9 +18,9 @@ La sezione raccoglierà i recap di tutte le sessioni della campagna
 
 Lucius è un umano di media statura, carnagione chiara e capelli neri e lunghi.
 
-Rimasto orfano insieme a suo fratello Mark, è cresciuto nei bassifondi della sua città natale, sopravvivendo grazie alla sua capacità di muoversi nel mondo criminale.
+Rimasto orfano insieme al fratello Mark, è cresciuto nei bassifondi della propria città natale, sopravvivendo grazie alla sua capacità di muoversi nel mondo criminale.
 
-Nella città di Celsius ha sfruttato la sua esperienza per diventare Capitano della guardia cittadina e continua a lavorare per accrescere la sua influenza.
+Nella città di Celsius grazie alle capacità di comando dimostrate con il party e le altre reclute è diventato subito Capitano della guardia cittadina e continua a lavorare per accrescere la sua influenza.
 
 
 
