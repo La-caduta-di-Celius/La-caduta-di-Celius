@@ -14,9 +14,19 @@ La sezione raccoglierà i recap di tutte le sessioni della campagna
 
 ## Il party
 
-### Lucius
+### Lucius, il capitano
 
-Guerriero umano
+Lucius è un umano di media statura, carnagione chiara e capelli neri e lunghi.
+
+Rimasto orfano insieme a suo fratello Mark, è cresciuto nei bassifondi della sua città natale, sopravvivendo grazie alla sua capacità di muoversi nel mondo criminale.
+
+Nella città di Celsius ha sfruttato la sua esperienza per diventare Capitano della guardia cittadina e continua a lavorare per accrescere la sua influenza.
+
+
+
+#### SCHEDA DEL PERSONAGGIO
+> Guerriero umano
+> Livello 4
 
 > **Caratteristiche**
 > - **FOR** +0 (10)
