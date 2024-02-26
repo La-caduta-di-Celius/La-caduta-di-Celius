@@ -36,15 +36,18 @@ Guerriero umano
 > - Stocco +5 Atk 1d6 +3 dmg
 
 > **Talenti e tratti**
-> - Azione impetuosa
-> - Recupero energie (d10)
-> - +2 a colpire con armi a distanza
-> - 4 Dadi superiorità (d8)
-> - Manovra: Attacco preciso
-> - Manovra: Attacco con manovra
-> - Manovra: Colpo distraente
-> - Talento: Esperto di balestre
-> - Talento: Tiratore scelto
+> - Tratti del guerriero:
+>   - Azione impetuosa
+>   - Recupero energie (d10)
+>   - +2 a colpire con armi a distanza
+>   - 4 Dadi superiorità (d8)
+> - Manovre:
+>   - Attacco preciso
+>   - Attacco con manovra
+>   - Colpo distraente
+> - Talenti:
+>   - Esperto di balestre
+>   - Tiratore scelto
 ---
 
 ## NPC e Fazioni
