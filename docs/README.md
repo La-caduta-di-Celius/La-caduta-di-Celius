@@ -2,13 +2,13 @@
 
 ## Recap delle sessioni
 
-La sezione raccogliera i recap di tutte le sessioni della campagna
+La sezione raccoglierà i recap di tutte le sessioni della campagna
 
 ---
 
 ## Il party
 
-La sezione raccogliera le schede dei personaggi
+La sezione raccoglierà le schede dei personaggi
 
 ### Lucius
 
@@ -45,6 +45,6 @@ Guerriero umano
 
 ## NPC e Fazioni
 
-La sezione raccogliera le informazioni dei principali NPC
+La sezione raccoglierà le informazioni dei principali NPC
 
 ---
