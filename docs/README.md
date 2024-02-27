@@ -10,9 +10,11 @@
 
 La sezione raccoglierà i recap di tutte le sessioni della campagna
 
-### Sessione 1 (18/06/2023)
+### Sessione 0 (18/06/2023)
 
-### Sessione 2 (17/09/2023)
+### Sessione 1 (17/09/2023)
+
+### Sessione 2 (30/11/2023)
 
 ### Sessione 3 (03/12/2023)
 
