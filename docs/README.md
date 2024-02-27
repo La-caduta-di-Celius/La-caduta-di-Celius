@@ -10,7 +10,15 @@
 
 La sezione raccoglierà i recap di tutte le sessioni della campagna
 
-### Sessione 5
+### Sessione 1 (18/06/2023)
+
+### Sessione 2 (17/09/2023)
+
+### Sessione 3 (03/12/2023)
+
+### Sessione 4 (16/12/2023)
+
+### Sessione 5 (24/02/2024)
 
 La situazione in città continua a peggiorare tra rivolte, carestia e omicidi.
 Il party lavora per arricchirsi e rafforzare la propria posizione tramite spaccio, contrabbando e spionaggio.
