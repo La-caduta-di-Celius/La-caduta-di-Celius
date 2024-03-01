@@ -77,6 +77,43 @@ Nella città di Celsius grazie alle capacità di comando dimostrate con il party
 > - Talenti:
 >   - Esperto di balestre
 >   - Tiratore scelto
+
+### Mark
+
+Mark è un uomo di bassa statura, con carnagione chiara, occhi azzurri, capelli neri e una barba trascurata.
+
+Rimasto orfano, Mark è stato allevato dal fratello Lucius, che è diventato il suo punto di riferimento principale. Costretto a rubare per guadagnarsi da vivere, ha sviluppato nel tempo un disinteresse verso qualsiasi cosa, diventando così un assassino spietato e senza scrupoli.
+
+
+#### SCHEDA DEL PERSONAGGIO
+> Ladro umano
+> Livello 4
+
+> **Caratteristiche**
+> - **FOR** -1 (8)
+> - **DES** +4 (18)
+> - **COS** +3 (16)
+> - **INT** -1 (9)
+> - **SAG** +1 (12)
+> - **CAR** +1 (12)
+
+> - **AC** 16
+> - **INIZIATIVA** +4
+> - **MOVIMENTO** 9m
+> - **MAX HP** 35
+
+> **Armi**
+> - pugnale +6 Atk 1d6 +4 dmg
+
+> **Talenti e tratti**
+> - Tratti del ladro:
+>   - Trucchi per camuffamento e sostanze da avvelenare
+>   - Azione bonus: disimpegno, scattare e disattivare trappoli
+>   - Attacco furtivo: 2d6 quando ho vantaggio o nemico ingaggiato
+>   - Archetipo Assassino: vantaggio su creatura che non ha effettuato turno combattimento/ critico su creatura sorpresa
+> - Talenti:
+>   - Fortunato: ritiro/a 3 volte per riposo lungo
+
 ---
 
 ## NPC e Fazioni
@@ -85,17 +122,42 @@ La sezione raccoglierà le informazioni dei principali NPC
 
 ### Myro
 
+### Jack, Simon, Lucas
+
+### Lufo
+
 ### Carsun, la città nemica
 
 ### Guardia cittadina 
 
 ### Sazuna capo della Guardia cittadina
 
+### Roluc tenente della Guardia cittadina
+
+### Religione Monen 
+> Simboli fiori e luna
+> Millina, fiore con cui si drogano
+
+### Dea Lyss
+> Spada spinaluce
+
+### Sarsi  schiavi
+
 ### Sigmundo ??
 
-### Selino
+### Selino amico nano
 
-### Isaac
+### Isaac ciccione capo bordello
+> Traffico di lus
+
+### Sanius arcivescovo della città
+
+### Don Tello chierico cattedrale
+
+### Curio Moris mago teletrasporto
+
+### Vax alchimista
+
 
 
 ---
